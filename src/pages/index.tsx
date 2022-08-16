@@ -24,7 +24,7 @@ export default function Home() {
         
       </Stack>
 
-      <Button type='submit' mt='6' colorScheme='pink'>Entrar</Button>
+      <Button type='submit' mt='6' colorScheme='pink' size='lg'>Entrar</Button>
     </Flex>
    
   </Flex> 
